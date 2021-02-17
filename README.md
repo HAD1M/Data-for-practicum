@@ -1,1 +1,1 @@
-# hands-on-machine-learning-mnist
+# Repo data for practicum 
